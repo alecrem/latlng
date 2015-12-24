@@ -1,0 +1,15 @@
+{
+  "name": "latlng",
+  "version": "0.0.1",
+  "main": "latlng.js",
+  "devDependencies": {
+    "fs": "*",
+    "readline": "*",
+    "needle": "*"
+  },
+  "peerDependencies": {
+    "fs": "*",
+    "readline": "*",
+    "needle": "*"
+  }
+}
